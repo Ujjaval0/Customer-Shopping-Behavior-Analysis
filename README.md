@@ -8,9 +8,9 @@ This project analyzes how 3,900 retail customers shop, spend, and respond to dis
 I used SQL for structured querying, Python for exploratory data analysis, and Power BI to build a dashboard that makes the insights accessible to both technical and non-technical audiences.
 
 ---
-# 📊 Power BI Dashboard
+## Power BI Dashboard
 
-!Screenshot 2026-03-08 210345.png
+![Power BI Dashboard](Screenshot%202026-03-08%20210345.png)
 
 ## 🔍 Key Findings
 
