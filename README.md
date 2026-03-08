@@ -10,7 +10,7 @@ I used SQL for structured querying, Python for exploratory data analysis, and Po
 ---
 # 📊 Power BI Dashboard
 
-![Customer Behavior Dashboard](dashboard.jpg)
+!Screenshot 2026-03-08 210345.png
 
 ## 🔍 Key Findings
 
